@@ -29,9 +29,9 @@ import com.twilio.type.PhoneNumber;
 public class SendGrades {
 
 	final static String username = "graderCheck@gmail.com";
-    final static String password = "A9r1l_09";
-    public static final String ACCOUNT_SID="ACf146e77747075153e92850f9ced19354";
-	public static final String AUTH_TOKEN = "59d13b2564c4b01f22bd569c863b1366";
+    final static String password = "*****";
+    public static final String ACCOUNT_SID="******";
+	public static final String AUTH_TOKEN = "******";
     
     public static TreeMap<String, People> map;
    
